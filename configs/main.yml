@@ -1,0 +1,8 @@
+pg_config:
+  DB_HOST: "localhost"
+  DB_PORT: "5432"
+  DB_USER: "seleroad"
+  DB_NAME: "orders"
+  DB_PASSWORD: "seleroad"
+  SSL_MODE: "disable"
+  REST_PORT: ":8080"
